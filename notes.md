@@ -8,3 +8,4 @@ cherry-demo 第一个提交。
 这是 GitHub 网页上的远程修改。
 这是远程分叉测试。
 这是 pull rebase 的远程测试。
+这是 push reject 远程测试。
