@@ -8,3 +8,5 @@
 我现在改了readme
 Amend can update the latest commit before it is pushed.
 这行是通过 rebase -i edit 补进旧提交里的。
+Interactive rebase can clean up local commit history.
+It can reword, squash, and reorder commits before sharing.
