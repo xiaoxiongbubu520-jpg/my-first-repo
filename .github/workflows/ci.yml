@@ -20,5 +20,4 @@ jobs:
       - name: Check README exists
         run: test -f README.md
 
-      - name: Force failure demo
-        run: exit 1
+      
